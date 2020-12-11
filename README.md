@@ -9,7 +9,7 @@ Sign up, browse, and watch your favorite shows!
 
 This web application uses Cloud Database and User Authentication via [Firebase/Firestore](https://firebase.google.com/)
 
-#### Live Version : https://my-netflix-clone.firebaseapp.com/
+#### Live Version : https://joshuanetflix-clone.netlify.app/
 
 ## Features
 
@@ -24,7 +24,7 @@ This web application uses Cloud Database and User Authentication via [Firebase/F
 
 ### Requirements:
 
-- Register for an account and Sign In via [Live Version Link](https://my-netflix-clone.firebaseapp.com/)
+- Register for an account and Sign In via [Live Version Link](https://joshuanetflix-clone.netlify.app//)
 
 ## Dependencies:
 
